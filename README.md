@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Goldfishvee
+- 👋 Hi, I’m Valerie Osawe-edoh
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full slack software engineering
 - 💞️ I’m looking to collaborate on java, python and c++ programming
